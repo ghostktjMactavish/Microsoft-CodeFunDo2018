@@ -9,7 +9,7 @@ Current state of the useful facilities, eg. destruction of hospitals.
 
 The list is not limited to these.But some of the tweets fall in to categories which are of no use to disaster management teams, eg.tweets linking the destruction to political and religious causes.
 
-I intend to cluster these tweets into different categories based on the topic wnder which they fall and map them geographically.This will help the disaster management teams in filtering out useful information and taking necessary measures for the given situation.I would also create a frequency vs time chart for the different category of tweets.This would help them in assessing the current situation of the affected region,eg.the frequency of tweets about the impact and destruction would be more in the beginning while those about rescue and shortage of supplies would be more at later times.
+I intend to apply a clustering algorithm to group these tweets into different categories based on the topic under which they fall and map them geographically, displaying the affected regions on a map and the current activity in that area.This will help the disaster management teams in filtering out useful information and taking necessary measures for the given situation.I would also create a frequency vs time chart for the different category of tweets.This would help them in assessing the current situation of the affected region,eg.the frequency of tweets about the impact and destruction would be more in the beginning while those about rescue and shortage of supplies would be more at later times.
 
 I will use a labeled dataset of tweets from Crisislex.org.
 Link : https://crisislex.org/data-collections.html#CrisisLexT6 
